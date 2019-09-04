@@ -1,4 +1,4 @@
-// client code for UDP socket programming 
+//SOCKET PROGRAM FOR SENDING FILES
 #include <arpa/inet.h> 
 #include <netinet/in.h> 
 #include <stdio.h> 
